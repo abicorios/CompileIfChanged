@@ -29,7 +29,7 @@ compileIfChanged.exe program.c program.exe gcc program.c
 program.exe
 ```
 
-If yuo do not have gcc in Windows, you can [install Chocolatey](https://chocolatey.org/install), than run:
+If you do not have gcc in Windows, you can [install Chocolatey](https://chocolatey.org/install), than run:
 ```
 choco install mingw
 refreshenv
