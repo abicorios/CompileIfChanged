@@ -25,7 +25,7 @@ program.exe
 It can be useful if you use custom command line tools in development. In Golang you can use just `go run program.go`. But many other languages have not such possibility. It can be next:
 
 ```
-compileIfChanged.exe program.c program.exe gcc program.c
+compileIfChanged.exe program.c program.exe gcc program.c -o program.exe
 program.exe
 ```
 
